@@ -1,0 +1,95 @@
+{
+  "updatedAt": "2026-07-26T17:46:28.483Z",
+  "player": {
+    "name": "SK|LoloBg81🙊",
+    "tag": "#RPVLJ0LQ2",
+    "trophies": 60955,
+    "highestTrophies": 60955,
+    "expLevel": 144,
+    "soloVictories": 2464,
+    "duoVictories": 2509,
+    "victories3v3": 2464
+  },
+  "club": {
+    "name": "SK|FUT|TEAM",
+    "trophies": 353588,
+    "members": 12,
+    "requiredTrophies": 20000
+  },
+  "topBrawlers": [
+    {
+      "name": "FANG",
+      "trophies": 2004,
+      "highestTrophies": 2022,
+      "power": 11,
+      "rank": 6
+    },
+    {
+      "name": "MORTIS",
+      "trophies": 2000,
+      "highestTrophies": 2000,
+      "power": 11,
+      "rank": 6
+    },
+    {
+      "name": "BIBI",
+      "trophies": 2000,
+      "highestTrophies": 2013,
+      "power": 11,
+      "rank": 6
+    },
+    {
+      "name": "EDGAR",
+      "trophies": 1290,
+      "highestTrophies": 1302,
+      "power": 11,
+      "rank": 5
+    },
+    {
+      "name": "COLT",
+      "trophies": 1185,
+      "highestTrophies": 1185,
+      "power": 11,
+      "rank": 5
+    },
+    {
+      "name": "KIT",
+      "trophies": 1156,
+      "highestTrophies": 1156,
+      "power": 11,
+      "rank": 5
+    }
+  ],
+  "recentBattles": [
+    {
+      "time": "20260726T154448.000Z",
+      "mode": "brawlBall",
+      "result": "victoire",
+      "trophyChange": null
+    },
+    {
+      "time": "20260726T154142.000Z",
+      "mode": "brawlBall",
+      "result": "victoire",
+      "trophyChange": null
+    },
+    {
+      "time": "20260726T080204.000Z",
+      "mode": "airHockey",
+      "result": "victoire",
+      "trophyChange": 11
+    },
+    {
+      "time": "20260726T075841.000Z",
+      "mode": "airHockey",
+      "result": "victoire",
+      "trophyChange": 10
+    },
+    {
+      "time": "20260726T075626.000Z",
+      "mode": "airHockey",
+      "result": "défaite",
+      "trophyChange": -6
+    }
+  ]
+}
