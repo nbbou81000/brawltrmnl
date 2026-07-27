@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-07-27T04:40:50.647Z",
+  "updatedAt": "2026-07-27T08:36:16.735Z",
   "player": {
     "name": "SK|LoloBg81🙊",
     "tag": "#RPVLJ0LQ2",
-    "trophies": 60955,
-    "highestTrophies": 60955,
+    "trophies": 61057,
+    "highestTrophies": 61061,
     "expLevel": 144,
-    "soloVictories": 2464,
+    "soloVictories": 2473,
     "duoVictories": 2509,
-    "victories3v3": 2464
+    "victories3v3": 2473
   },
   "club": {
     "name": "SK|FUT|TEAM",
-    "trophies": 353607,
+    "trophies": 353709,
     "members": 12,
     "requiredTrophies": 20000
   },
@@ -46,50 +46,50 @@
       "rank": 5
     },
     {
-      "name": "COLT",
-      "trophies": 1185,
-      "highestTrophies": 1185,
+      "name": "KIT",
+      "trophies": 1199,
+      "highestTrophies": 1199,
       "power": 11,
       "rank": 5
     },
     {
-      "name": "KIT",
-      "trophies": 1156,
-      "highestTrophies": 1156,
+      "name": "COLT",
+      "trophies": 1185,
+      "highestTrophies": 1185,
       "power": 11,
       "rank": 5
     }
   ],
   "recentBattles": [
     {
-      "time": "20260726T154448.000Z",
-      "mode": "brawlBall",
+      "time": "20260727T072330.000Z",
+      "mode": "airHockey",
       "result": "victoire",
       "trophyChange": null
     },
     {
-      "time": "20260726T154142.000Z",
-      "mode": "brawlBall",
-      "result": "victoire",
-      "trophyChange": null
-    },
-    {
-      "time": "20260726T080204.000Z",
-      "mode": "airHockey",
-      "result": "victoire",
-      "trophyChange": 11
-    },
-    {
-      "time": "20260726T075841.000Z",
-      "mode": "airHockey",
-      "result": "victoire",
-      "trophyChange": 10
-    },
-    {
-      "time": "20260726T075626.000Z",
+      "time": "20260727T071917.000Z",
       "mode": "airHockey",
       "result": "défaite",
-      "trophyChange": -6
+      "trophyChange": -4
+    },
+    {
+      "time": "20260727T071724.000Z",
+      "mode": "airHockey",
+      "result": "victoire",
+      "trophyChange": 16
+    },
+    {
+      "time": "20260727T071532.000Z",
+      "mode": "airHockey",
+      "result": "victoire",
+      "trophyChange": 20
+    },
+    {
+      "time": "20260727T071332.000Z",
+      "mode": "airHockey",
+      "result": "victoire",
+      "trophyChange": 19
     }
   ]
 }
