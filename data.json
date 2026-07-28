@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-07-28T16:44:43.581Z",
+  "updatedAt": "2026-07-28T18:18:57.061Z",
   "player": {
     "name": "SK|LoloBg81🙊",
     "tag": "#RPVLJ0LQ2",
-    "trophies": 61057,
-    "highestTrophies": 61061,
+    "trophies": 61152,
+    "highestTrophies": 61152,
     "expLevel": 144,
-    "soloVictories": 2473,
+    "soloVictories": 2474,
     "duoVictories": 2509,
-    "victories3v3": 2473
+    "victories3v3": 2474
   },
   "club": {
     "name": "SK|FUT|TEAM",
-    "trophies": 471200,
+    "trophies": 471295,
     "members": 14,
     "requiredTrophies": 20000
   },
@@ -39,16 +39,16 @@
       "rank": 6
     },
     {
-      "name": "EDGAR",
-      "trophies": 1290,
-      "highestTrophies": 1302,
+      "name": "KIT",
+      "trophies": 1294,
+      "highestTrophies": 1294,
       "power": 11,
       "rank": 5
     },
     {
-      "name": "KIT",
-      "trophies": 1199,
-      "highestTrophies": 1199,
+      "name": "EDGAR",
+      "trophies": 1290,
+      "highestTrophies": 1302,
       "power": 11,
       "rank": 5
     },
@@ -62,34 +62,34 @@
   ],
   "recentBattles": [
     {
-      "time": "20260727T072330.000Z",
-      "mode": "airHockey",
+      "time": "20260728T170140.000Z",
+      "mode": "brawlBall",
       "result": "victoire",
       "trophyChange": null
     },
     {
-      "time": "20260727T071917.000Z",
-      "mode": "airHockey",
-      "result": "défaite",
-      "trophyChange": -4
-    },
-    {
-      "time": "20260727T071724.000Z",
-      "mode": "airHockey",
-      "result": "victoire",
-      "trophyChange": 16
-    },
-    {
-      "time": "20260727T071532.000Z",
-      "mode": "airHockey",
-      "result": "victoire",
-      "trophyChange": 20
-    },
-    {
-      "time": "20260727T071332.000Z",
-      "mode": "airHockey",
+      "time": "20260728T165825.000Z",
+      "mode": "soloShowdown",
       "result": "victoire",
       "trophyChange": 19
+    },
+    {
+      "time": "20260728T165752.000Z",
+      "mode": "soloShowdown",
+      "result": "défaite",
+      "trophyChange": -2
+    },
+    {
+      "time": "20260728T165428.000Z",
+      "mode": "soloShowdown",
+      "result": "victoire",
+      "trophyChange": 24
+    },
+    {
+      "time": "20260728T165231.000Z",
+      "mode": "soloShowdown",
+      "result": "défaite",
+      "trophyChange": -10
     }
   ]
 }
