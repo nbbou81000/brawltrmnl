@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-08-02T10:02:05.307Z",
+  "updatedAt": "2026-08-02T12:06:46.497Z",
   "player": {
     "name": "SK|LoloBg81🙊",
     "tag": "#RPVLJ0LQ2",
-    "trophies": 61536,
-    "highestTrophies": 61537,
+    "trophies": 61639,
+    "highestTrophies": 61639,
     "expLevel": 145,
     "soloVictories": 2490,
     "duoVictories": 2509,
@@ -12,7 +12,7 @@
   },
   "club": {
     "name": "SK|FUT|TEAM",
-    "trophies": 444901,
+    "trophies": 445099,
     "members": 13,
     "requiredTrophies": 20000
   },
@@ -40,8 +40,8 @@
     },
     {
       "name": "KIT",
-      "trophies": 1401,
-      "highestTrophies": 1401,
+      "trophies": 1504,
+      "highestTrophies": 1504,
       "power": 11,
       "rank": 5
     },
@@ -62,34 +62,34 @@
   ],
   "recentBattles": [
     {
-      "time": "20260801T080247.000Z",
-      "mode": "airHockey",
-      "result": "victoire",
-      "trophyChange": 22
-    },
-    {
-      "time": "20260801T075942.000Z",
-      "mode": "airHockey",
-      "result": "victoire",
-      "trophyChange": 16
-    },
-    {
-      "time": "20260801T075603.000Z",
-      "mode": "soloShowdown",
-      "result": "victoire",
-      "trophyChange": 10
-    },
-    {
-      "time": "20260801T075500.000Z",
+      "time": "20260802T101732.000Z",
       "mode": "soloShowdown",
       "result": "défaite",
-      "trophyChange": -4
+      "trophyChange": -10
     },
     {
-      "time": "20260731T164849.000Z",
-      "mode": "airHockey",
+      "time": "20260802T101711.000Z",
+      "mode": "soloShowdown",
       "result": "victoire",
-      "trophyChange": 15
+      "trophyChange": 26
+    },
+    {
+      "time": "20260802T101329.000Z",
+      "mode": "soloShowdown",
+      "result": "victoire",
+      "trophyChange": 11
+    },
+    {
+      "time": "20260802T101115.000Z",
+      "mode": "soloShowdown",
+      "result": "défaite",
+      "trophyChange": -10
+    },
+    {
+      "time": "20260802T101032.000Z",
+      "mode": "soloShowdown",
+      "result": "victoire",
+      "trophyChange": 26
     }
   ]
 }
