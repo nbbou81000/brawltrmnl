@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-08-03T07:34:09.768Z",
+  "updatedAt": "2026-08-03T11:32:27.155Z",
   "player": {
     "name": "SK|LoloBg81🙊",
     "tag": "#RPVLJ0LQ2",
-    "trophies": 61639,
-    "highestTrophies": 61639,
+    "trophies": 61690,
+    "highestTrophies": 61690,
     "expLevel": 145,
     "soloVictories": 2490,
-    "duoVictories": 2509,
+    "duoVictories": 2512,
     "victories3v3": 2490
   },
   "club": {
     "name": "SK|FUT|TEAM",
-    "trophies": 445254,
+    "trophies": 445421,
     "members": 13,
     "requiredTrophies": 20000
   },
@@ -62,34 +62,34 @@
   ],
   "recentBattles": [
     {
-      "time": "20260802T101732.000Z",
-      "mode": "soloShowdown",
-      "result": "défaite",
-      "trophyChange": -10
-    },
-    {
-      "time": "20260802T101711.000Z",
-      "mode": "soloShowdown",
-      "result": "victoire",
-      "trophyChange": 26
-    },
-    {
-      "time": "20260802T101329.000Z",
-      "mode": "soloShowdown",
+      "time": "20260803T085817.000Z",
+      "mode": "trioShowdown",
       "result": "victoire",
       "trophyChange": 11
     },
     {
-      "time": "20260802T101115.000Z",
-      "mode": "soloShowdown",
+      "time": "20260803T085700.000Z",
+      "mode": "trioShowdown",
       "result": "défaite",
-      "trophyChange": -10
+      "trophyChange": -6
     },
     {
-      "time": "20260802T101032.000Z",
-      "mode": "soloShowdown",
+      "time": "20260803T085402.000Z",
+      "mode": "trioShowdown",
       "result": "victoire",
-      "trophyChange": 26
+      "trophyChange": 10
+    },
+    {
+      "time": "20260803T084918.000Z",
+      "mode": "trioShowdown",
+      "result": "victoire",
+      "trophyChange": 9
+    },
+    {
+      "time": "20260803T084718.000Z",
+      "mode": "trioShowdown",
+      "result": "?",
+      "trophyChange": null
     }
   ]
 }
