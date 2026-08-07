@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-08-07T14:58:01.990Z",
+  "updatedAt": "2026-08-07T16:03:08.220Z",
   "player": {
     "name": "SK|LoloBg81🙊",
     "tag": "#RPVLJ0LQ2",
-    "trophies": 61794,
-    "highestTrophies": 61797,
+    "trophies": 61802,
+    "highestTrophies": 61804,
     "expLevel": 145,
     "soloVictories": 2490,
     "duoVictories": 2515,
@@ -12,15 +12,15 @@
   },
   "club": {
     "name": "SK|FUT|TEAM",
-    "trophies": 447228,
+    "trophies": 447292,
     "members": 13,
     "requiredTrophies": 20000
   },
   "topBrawlers": [
     {
       "name": "FANG",
-      "trophies": 2051,
-      "highestTrophies": 2054,
+      "trophies": 2059,
+      "highestTrophies": 2061,
       "power": 11,
       "rank": 6
     },
@@ -62,34 +62,34 @@
   ],
   "recentBattles": [
     {
+      "time": "20260807T160235.000Z",
+      "mode": "soloShowdown",
+      "result": "défaite",
+      "trophyChange": -2
+    },
+    {
+      "time": "20260807T155930.000Z",
+      "mode": "soloShowdown",
+      "result": "victoire",
+      "trophyChange": 8
+    },
+    {
+      "time": "20260807T155631.000Z",
+      "mode": "soloShowdown",
+      "result": "victoire",
+      "trophyChange": 4
+    },
+    {
+      "time": "20260807T155427.000Z",
+      "mode": "soloShowdown",
+      "result": "défaite",
+      "trophyChange": -2
+    },
+    {
       "time": "20260807T053817.000Z",
       "mode": "soloShowdown",
       "result": "victoire",
       "trophyChange": 8
-    },
-    {
-      "time": "20260807T053448.000Z",
-      "mode": "soloShowdown",
-      "result": "défaite",
-      "trophyChange": -3
-    },
-    {
-      "time": "20260806T163342.000Z",
-      "mode": "soloShowdown",
-      "result": "?",
-      "trophyChange": null
-    },
-    {
-      "time": "20260806T163026.000Z",
-      "mode": "soloShowdown",
-      "result": "victoire",
-      "trophyChange": 8
-    },
-    {
-      "time": "20260806T163002.000Z",
-      "mode": "soloShowdown",
-      "result": "défaite",
-      "trophyChange": -9
     }
   ]
 }
