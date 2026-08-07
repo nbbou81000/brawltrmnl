@@ -1,25 +1,25 @@
 {
-  "updatedAt": "2026-08-07T16:03:08.220Z",
+  "updatedAt": "2026-08-07T17:52:07.825Z",
   "player": {
     "name": "SK|LoloBg81🙊",
     "tag": "#RPVLJ0LQ2",
-    "trophies": 61802,
+    "trophies": 61800,
     "highestTrophies": 61804,
     "expLevel": 145,
-    "soloVictories": 2490,
+    "soloVictories": 2491,
     "duoVictories": 2515,
-    "victories3v3": 2490
+    "victories3v3": 2491
   },
   "club": {
     "name": "SK|FUT|TEAM",
-    "trophies": 447292,
+    "trophies": 447356,
     "members": 13,
     "requiredTrophies": 20000
   },
   "topBrawlers": [
     {
       "name": "FANG",
-      "trophies": 2059,
+      "trophies": 2057,
       "highestTrophies": 2061,
       "power": 11,
       "rank": 6
@@ -62,6 +62,24 @@
   ],
   "recentBattles": [
     {
+      "time": "20260807T161104.000Z",
+      "mode": "brawlBall",
+      "result": "défaite",
+      "trophyChange": null
+    },
+    {
+      "time": "20260807T160820.000Z",
+      "mode": "gemGrab",
+      "result": "victoire",
+      "trophyChange": null
+    },
+    {
+      "time": "20260807T160423.000Z",
+      "mode": "soloShowdown",
+      "result": "défaite",
+      "trophyChange": -2
+    },
+    {
       "time": "20260807T160235.000Z",
       "mode": "soloShowdown",
       "result": "défaite",
@@ -69,24 +87,6 @@
     },
     {
       "time": "20260807T155930.000Z",
-      "mode": "soloShowdown",
-      "result": "victoire",
-      "trophyChange": 8
-    },
-    {
-      "time": "20260807T155631.000Z",
-      "mode": "soloShowdown",
-      "result": "victoire",
-      "trophyChange": 4
-    },
-    {
-      "time": "20260807T155427.000Z",
-      "mode": "soloShowdown",
-      "result": "défaite",
-      "trophyChange": -2
-    },
-    {
-      "time": "20260807T053817.000Z",
       "mode": "soloShowdown",
       "result": "victoire",
       "trophyChange": 8
