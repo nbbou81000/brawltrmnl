@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T04:23:39.668Z",
+  "updatedAt": "2026-08-11T05:56:00.250Z",
   "player": {
     "name": "SK|LoloBg81🙊",
     "tag": "#RPVLJ0LQ2",
@@ -62,6 +62,12 @@
   ],
   "recentBattles": [
     {
+      "time": "20260811T053958.000Z",
+      "mode": "soloShowdown",
+      "result": "?",
+      "trophyChange": null
+    },
+    {
       "time": "20260807T161104.000Z",
       "mode": "brawlBall",
       "result": "défaite",
@@ -84,12 +90,6 @@
       "mode": "soloShowdown",
       "result": "défaite",
       "trophyChange": -2
-    },
-    {
-      "time": "20260807T155930.000Z",
-      "mode": "soloShowdown",
-      "result": "victoire",
-      "trophyChange": 8
     }
   ]
 }
