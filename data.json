@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-09-07T03:58:10.173Z",
+  "updatedAt": "2026-09-07T09:15:02.189Z",
   "player": {
     "name": "SK|LoloBg81🙊",
     "tag": "#RPVLJ0LQ2",
-    "trophies": 61863,
-    "highestTrophies": 61863,
+    "trophies": 61889,
+    "highestTrophies": 61889,
     "expLevel": 145,
-    "soloVictories": 2495,
+    "soloVictories": 2498,
     "duoVictories": 2515,
-    "victories3v3": 2495
+    "victories3v3": 2498
   },
   "club": {
     "name": "SK|FUT|TEAM",
-    "trophies": 572406,
+    "trophies": 572600,
     "members": 14,
     "requiredTrophies": 8000
   },
@@ -62,34 +62,34 @@
   ],
   "recentBattles": [
     {
-      "time": "20260906T165219.000Z",
-      "mode": "airHockey",
+      "time": "20260907T054409.000Z",
+      "mode": "bounty",
+      "result": "victoire",
+      "trophyChange": null
+    },
+    {
+      "time": "20260907T054121.000Z",
+      "mode": "bounty",
+      "result": "victoire",
+      "trophyChange": null
+    },
+    {
+      "time": "20260907T053839.000Z",
+      "mode": "bounty",
+      "result": "victoire",
+      "trophyChange": null
+    },
+    {
+      "time": "20260907T053351.000Z",
+      "mode": "knockout",
       "result": "victoire",
       "trophyChange": 10
     },
     {
-      "time": "20260905T155250.000Z",
-      "mode": "airHockey",
+      "time": "20260907T052705.000Z",
+      "mode": "knockout",
       "result": "défaite",
-      "trophyChange": null
-    },
-    {
-      "time": "20260905T154941.000Z",
-      "mode": "airHockey",
-      "result": "victoire",
-      "trophyChange": 12
-    },
-    {
-      "time": "20260905T154459.000Z",
-      "mode": "soloShowdown",
-      "result": "victoire",
-      "trophyChange": 8
-    },
-    {
-      "time": "20260905T154310.000Z",
-      "mode": "soloShowdown",
-      "result": "victoire",
-      "trophyChange": 1
+      "trophyChange": -5
     }
   ]
 }
