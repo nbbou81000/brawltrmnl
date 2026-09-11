@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-09-11T14:10:33.258Z",
+  "updatedAt": "2026-09-11T18:18:13.906Z",
   "player": {
     "name": "SK|LoloBg81🙊",
     "tag": "#RPVLJ0LQ2",
-    "trophies": 62056,
-    "highestTrophies": 62056,
-    "expLevel": 145,
-    "soloVictories": 2508,
-    "duoVictories": 2515,
-    "victories3v3": 2508
+    "trophies": 62612,
+    "highestTrophies": 62612,
+    "expLevel": 146,
+    "soloVictories": 2551,
+    "duoVictories": 2517,
+    "victories3v3": 2551
   },
   "club": {
     "name": "CELESTINI",
-    "trophies": 1167890,
+    "trophies": 1168338,
     "members": 30,
     "requiredTrophies": 22000
   },
@@ -53,43 +53,43 @@
       "rank": 5
     },
     {
-      "name": "COLT",
-      "trophies": 1206,
-      "highestTrophies": 1206,
+      "name": "SPIKE",
+      "trophies": 1216,
+      "highestTrophies": 1232,
       "power": 11,
       "rank": 5
     }
   ],
   "recentBattles": [
     {
-      "time": "20260911T054719.000Z",
-      "mode": "soloShowdown",
-      "result": "victoire",
-      "trophyChange": 14
-    },
-    {
-      "time": "20260911T054540.000Z",
-      "mode": "airHockey",
+      "time": "20260911T181745.000Z",
+      "mode": "brawlBall",
       "result": "victoire",
       "trophyChange": 10
     },
     {
-      "time": "20260911T054335.000Z",
-      "mode": "airHockey",
+      "time": "20260911T181654.000Z",
+      "mode": "brawlBall",
       "result": "défaite",
-      "trophyChange": null
+      "trophyChange": -2
     },
     {
-      "time": "20260910T173626.000Z",
-      "mode": "airHockey",
+      "time": "20260911T181503.000Z",
+      "mode": "brawlBall",
       "result": "victoire",
-      "trophyChange": null
+      "trophyChange": 12
     },
     {
-      "time": "20260910T161041.000Z",
-      "mode": "airHockey",
+      "time": "20260911T181247.000Z",
+      "mode": "brawlBall",
       "result": "victoire",
       "trophyChange": 11
+    },
+    {
+      "time": "20260911T181110.000Z",
+      "mode": "brawlBall",
+      "result": "victoire",
+      "trophyChange": 10
     }
   ]
 }
