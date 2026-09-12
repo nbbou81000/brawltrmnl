@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-09-12T09:08:07.538Z",
+  "updatedAt": "2026-09-12T13:28:46.683Z",
   "player": {
     "name": "SK|LoloBg81🙊",
     "tag": "#RPVLJ0LQ2",
-    "trophies": 63403,
-    "highestTrophies": 63403,
+    "trophies": 63919,
+    "highestTrophies": 63919,
     "expLevel": 146,
-    "soloVictories": 2588,
+    "soloVictories": 2609,
     "duoVictories": 2517,
-    "victories3v3": 2588
+    "victories3v3": 2609
   },
   "club": {
     "name": "CELESTINI",
-    "trophies": 1226639,
+    "trophies": 1227595,
     "members": 30,
     "requiredTrophies": 22000
   },
@@ -62,34 +62,34 @@
   ],
   "recentBattles": [
     {
-      "time": "20260912T090503.000Z",
+      "time": "20260912T130558.000Z",
+      "mode": "airHockey",
+      "result": "victoire",
+      "trophyChange": 12
+    },
+    {
+      "time": "20260912T130355.000Z",
       "mode": "airHockey",
       "result": "victoire",
       "trophyChange": 11
     },
     {
-      "time": "20260912T090251.000Z",
+      "time": "20260912T130220.000Z",
       "mode": "airHockey",
       "result": "victoire",
       "trophyChange": 10
     },
     {
-      "time": "20260912T085919.000Z",
+      "time": "20260912T130113.000Z",
       "mode": "airHockey",
       "result": "défaite",
-      "trophyChange": -2
+      "trophyChange": -1
     },
     {
-      "time": "20260912T085548.000Z",
-      "mode": "airHockey",
-      "result": "victoire",
-      "trophyChange": 10
-    },
-    {
-      "time": "20260912T085354.000Z",
+      "time": "20260912T125828.000Z",
       "mode": "airHockey",
       "result": "défaite",
-      "trophyChange": -2
+      "trophyChange": -1
     }
   ]
 }
