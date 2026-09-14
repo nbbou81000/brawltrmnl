@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-09-14T10:28:05.394Z",
+  "updatedAt": "2026-09-14T16:53:56.618Z",
   "player": {
     "name": "SK|LoloBg81🙊",
     "tag": "#RPVLJ0LQ2",
-    "trophies": 64009,
-    "highestTrophies": 64009,
+    "trophies": 64242,
+    "highestTrophies": 64242,
     "expLevel": 146,
-    "soloVictories": 2609,
+    "soloVictories": 2624,
     "duoVictories": 2517,
-    "victories3v3": 2609
+    "victories3v3": 2624
   },
   "club": {
     "name": "CELESTINI",
-    "trophies": 856813,
-    "members": 20,
+    "trophies": 892576,
+    "members": 21,
     "requiredTrophies": 22000
   },
   "topBrawlers": [
@@ -62,34 +62,34 @@
   ],
   "recentBattles": [
     {
-      "time": "20260912T182309.000Z",
-      "mode": "soloShowdown",
-      "result": "victoire",
-      "trophyChange": 21
+      "time": "20260914T164556.000Z",
+      "mode": "brawlBall",
+      "result": "défaite",
+      "trophyChange": null
     },
     {
-      "time": "20260912T182105.000Z",
-      "mode": "soloShowdown",
+      "time": "20260914T164343.000Z",
+      "mode": "brawlBall",
       "result": "victoire",
-      "trophyChange": 7
+      "trophyChange": 14
     },
     {
-      "time": "20260912T181943.000Z",
-      "mode": "soloShowdown",
-      "result": "victoire",
-      "trophyChange": 11
-    },
-    {
-      "time": "20260912T181823.000Z",
-      "mode": "soloShowdown",
+      "time": "20260914T164149.000Z",
+      "mode": "brawlBall",
       "result": "victoire",
       "trophyChange": 13
     },
     {
-      "time": "20260912T181719.000Z",
-      "mode": "soloShowdown",
+      "time": "20260914T163815.000Z",
+      "mode": "brawlBall",
       "result": "victoire",
-      "trophyChange": 2
+      "trophyChange": 17
+    },
+    {
+      "time": "20260914T163717.000Z",
+      "mode": "brawlBall",
+      "result": "victoire",
+      "trophyChange": 16
     }
   ]
 }
