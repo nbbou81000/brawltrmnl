@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-09-16T01:11:56.077Z",
+  "updatedAt": "2026-09-16T07:28:56.140Z",
   "player": {
     "name": "SK|LoloBg81🙊",
     "tag": "#RPVLJ0LQ2",
-    "trophies": 64440,
-    "highestTrophies": 64440,
+    "trophies": 64489,
+    "highestTrophies": 64489,
     "expLevel": 147,
-    "soloVictories": 2644,
+    "soloVictories": 2648,
     "duoVictories": 2517,
-    "victories3v3": 2644
+    "victories3v3": 2648
   },
   "club": {
     "name": "SK|FUT|TEAM",
-    "trophies": 350900,
+    "trophies": 350986,
     "members": 11,
     "requiredTrophies": 8000
   },
@@ -62,34 +62,34 @@
   ],
   "recentBattles": [
     {
-      "time": "20260915T190125.000Z",
+      "time": "20260916T054717.000Z",
       "mode": "brawlBall",
       "result": "victoire",
       "trophyChange": 12
     },
     {
-      "time": "20260915T185956.000Z",
+      "time": "20260916T054441.000Z",
       "mode": "brawlBall",
       "result": "victoire",
       "trophyChange": 11
     },
     {
-      "time": "20260915T185854.000Z",
-      "mode": "trioShowdown",
-      "result": "victoire",
-      "trophyChange": 2
-    },
-    {
-      "time": "20260915T185528.000Z",
-      "mode": "airHockey",
-      "result": "victoire",
-      "trophyChange": 10
-    },
-    {
-      "time": "20260915T185353.000Z",
-      "mode": "airHockey",
+      "time": "20260916T054325.000Z",
+      "mode": "brawlBall",
       "result": "défaite",
       "trophyChange": -1
+    },
+    {
+      "time": "20260916T054052.000Z",
+      "mode": "brawlBall",
+      "result": "victoire",
+      "trophyChange": 14
+    },
+    {
+      "time": "20260916T053911.000Z",
+      "mode": "brawlBall",
+      "result": "victoire",
+      "trophyChange": 13
     }
   ]
 }
