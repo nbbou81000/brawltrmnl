@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-09-18T04:07:49.370Z",
+  "updatedAt": "2026-09-18T09:31:10.289Z",
   "player": {
     "name": "SK|LoloBg81🙊",
     "tag": "#RPVLJ0LQ2",
-    "trophies": 64510,
-    "highestTrophies": 64510,
+    "trophies": 64535,
+    "highestTrophies": 64535,
     "expLevel": 147,
-    "soloVictories": 2650,
+    "soloVictories": 2653,
     "duoVictories": 2517,
-    "victories3v3": 2650
+    "victories3v3": 2653
   },
   "club": {
     "name": "Albatar",
-    "trophies": 2053435,
+    "trophies": 2053574,
     "members": 30,
     "requiredTrophies": 50000
   },
@@ -62,34 +62,34 @@
   ],
   "recentBattles": [
     {
-      "time": "20260916T163936.000Z",
-      "mode": "brawlBall",
+      "time": "20260918T052301.000Z",
+      "mode": "gemGrab",
       "result": "victoire",
-      "trophyChange": 11
+      "trophyChange": null
     },
     {
-      "time": "20260916T163812.000Z",
-      "mode": "brawlBall",
-      "result": "victoire",
-      "trophyChange": 10
+      "time": "20260918T052049.000Z",
+      "mode": "gemGrab",
+      "result": "défaite",
+      "trophyChange": null
     },
     {
-      "time": "20260916T054717.000Z",
+      "time": "20260918T051731.000Z",
+      "mode": "brawlBall",
+      "result": "victoire",
+      "trophyChange": 13
+    },
+    {
+      "time": "20260918T051626.000Z",
       "mode": "brawlBall",
       "result": "victoire",
       "trophyChange": 12
     },
     {
-      "time": "20260916T054441.000Z",
+      "time": "20260916T163936.000Z",
       "mode": "brawlBall",
       "result": "victoire",
       "trophyChange": 11
-    },
-    {
-      "time": "20260916T054325.000Z",
-      "mode": "brawlBall",
-      "result": "défaite",
-      "trophyChange": -1
     }
   ]
 }
