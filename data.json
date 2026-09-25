@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-25T18:23:34.647Z",
+  "updatedAt": "2026-09-25T22:08:02.001Z",
   "player": {
     "name": "SK|LoloBg81🙊",
     "tag": "#RPVLJ0LQ2",
-    "trophies": 65491,
-    "highestTrophies": 65491,
+    "trophies": 65550,
+    "highestTrophies": 65550,
     "expLevel": 147,
     "soloVictories": 2720,
     "duoVictories": 2517,
@@ -12,7 +12,7 @@
   },
   "club": {
     "name": "Albatar",
-    "trophies": 2070888,
+    "trophies": 2071369,
     "members": 30,
     "requiredTrophies": 50000
   },
@@ -46,50 +46,50 @@
       "rank": 5
     },
     {
-      "name": "EDGAR",
-      "trophies": 1290,
-      "highestTrophies": 1302,
+      "name": "SPIKE",
+      "trophies": 1336,
+      "highestTrophies": 1336,
       "power": 11,
       "rank": 5
     },
     {
-      "name": "SPIKE",
-      "trophies": 1277,
-      "highestTrophies": 1277,
+      "name": "EDGAR",
+      "trophies": 1290,
+      "highestTrophies": 1302,
       "power": 11,
       "rank": 5
     }
   ],
   "recentBattles": [
     {
-      "time": "20260925T055438.000Z",
+      "time": "20260925T205515.000Z",
       "mode": "soloShowdown",
       "result": "victoire",
-      "trophyChange": 18
+      "trophyChange": 6
     },
     {
-      "time": "20260925T055314.000Z",
+      "time": "20260925T205213.000Z",
       "mode": "soloShowdown",
       "result": "victoire",
-      "trophyChange": 9
+      "trophyChange": 13
     },
     {
-      "time": "20260925T054808.000Z",
+      "time": "20260925T205041.000Z",
+      "mode": "soloShowdown",
+      "result": "défaite",
+      "trophyChange": -4
+    },
+    {
+      "time": "20260925T204737.000Z",
       "mode": "soloShowdown",
       "result": "victoire",
-      "trophyChange": 8
+      "trophyChange": 6
     },
     {
-      "time": "20260925T054430.000Z",
+      "time": "20260925T204622.000Z",
       "mode": "soloShowdown",
       "result": "victoire",
-      "trophyChange": 14
-    },
-    {
-      "time": "20260925T054210.000Z",
-      "mode": "brawlBall",
-      "result": "victoire",
-      "trophyChange": 15
+      "trophyChange": 1
     }
   ]
 }
