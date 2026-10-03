@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-03T06:16:09.734Z",
+  "updatedAt": "2026-10-03T12:22:52.053Z",
   "player": {
     "name": "SK|LoloBg81🙊",
     "tag": "#RPVLJ0LQ2",
-    "trophies": 65780,
-    "highestTrophies": 65780,
-    "expLevel": 147,
+    "trophies": 65891,
+    "highestTrophies": 65891,
+    "expLevel": 148,
     "soloVictories": 2721,
     "duoVictories": 2517,
     "victories3v3": 2721
   },
   "club": {
     "name": "Albatar",
-    "trophies": 2063774,
+    "trophies": 2064370,
     "members": 30,
     "requiredTrophies": 50000
   },
@@ -62,34 +62,34 @@
   ],
   "recentBattles": [
     {
-      "time": "20261002T160845.000Z",
+      "time": "20261003T084427.000Z",
+      "mode": "soloShowdown",
+      "result": "?",
+      "trophyChange": null
+    },
+    {
+      "time": "20261003T084134.000Z",
       "mode": "soloShowdown",
       "result": "victoire",
       "trophyChange": 14
     },
     {
-      "time": "20261002T160706.000Z",
-      "mode": "soloShowdown",
-      "result": "défaite",
-      "trophyChange": -5
-    },
-    {
-      "time": "20261002T160700.000Z",
+      "time": "20261003T083937.000Z",
       "mode": "soloShowdown",
       "result": "victoire",
       "trophyChange": 13
     },
     {
-      "time": "20261002T160339.000Z",
+      "time": "20261003T083923.000Z",
       "mode": "soloShowdown",
       "result": "défaite",
-      "trophyChange": -4
+      "trophyChange": -3
     },
     {
-      "time": "20261002T155905.000Z",
+      "time": "20261003T083507.000Z",
       "mode": "soloShowdown",
       "result": "victoire",
-      "trophyChange": 14
+      "trophyChange": 15
     }
   ]
 }
