@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-18T05:36:59.400Z",
+  "updatedAt": "2026-10-18T10:44:02.722Z",
   "player": {
     "name": "SK|LoloBg81🙊",
     "tag": "#RPVLJ0LQ2",
-    "trophies": 66899,
+    "trophies": 66898,
     "highestTrophies": 66900,
     "expLevel": 148,
     "soloVictories": 2733,
@@ -12,8 +12,8 @@
   },
   "club": {
     "name": "Albatar",
-    "trophies": 2073571,
-    "members": 30,
+    "trophies": 2010828,
+    "members": 29,
     "requiredTrophies": 60000
   },
   "topBrawlers": [
@@ -62,6 +62,12 @@
   ],
   "recentBattles": [
     {
+      "time": "20261018T073320.000Z",
+      "mode": "duoShowdown",
+      "result": "défaite",
+      "trophyChange": -1
+    },
+    {
       "time": "20261017T145651.000Z",
       "mode": "duoShowdown",
       "result": "défaite",
@@ -84,12 +90,6 @@
       "mode": "duoShowdown",
       "result": "défaite",
       "trophyChange": -6
-    },
-    {
-      "time": "20261017T074451.000Z",
-      "mode": "duoShowdown",
-      "result": "victoire",
-      "trophyChange": 12
     }
   ]
 }
