@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-05T02:06:21.514Z",
+  "updatedAt": "2026-11-05T10:37:05.037Z",
   "player": {
     "name": "SK|LoloBg81🙊",
     "tag": "#RPVLJ0LQ2",
-    "trophies": 67024,
-    "highestTrophies": 67027,
+    "trophies": 67114,
+    "highestTrophies": 67114,
     "expLevel": 148,
-    "soloVictories": 2745,
+    "soloVictories": 2751,
     "duoVictories": 2544,
-    "victories3v3": 2745
+    "victories3v3": 2751
   },
   "club": {
     "name": "Albatar",
-    "trophies": 2114635,
+    "trophies": 2114728,
     "members": 30,
     "requiredTrophies": 60000
   },
@@ -47,7 +47,7 @@
     },
     {
       "name": "SPIKE",
-      "trophies": 1404,
+      "trophies": 1411,
       "highestTrophies": 1415,
       "power": 11,
       "rank": 5
@@ -62,34 +62,34 @@
   ],
   "recentBattles": [
     {
-      "time": "20261104T062920.000Z",
-      "mode": "brawlBall",
-      "result": "défaite",
-      "trophyChange": -3
+      "time": "20261105T080535.000Z",
+      "mode": "megaShowdown",
+      "result": "victoire",
+      "trophyChange": 7
     },
     {
-      "time": "20261104T062744.000Z",
-      "mode": "brawlBall",
+      "time": "20261105T064646.000Z",
+      "mode": "airHockey",
       "result": "victoire",
       "trophyChange": 10
     },
     {
-      "time": "20261104T062634.000Z",
-      "mode": "brawlBall",
-      "result": "défaite",
-      "trophyChange": -3
-    },
-    {
-      "time": "20261104T062447.000Z",
-      "mode": "brawlBall",
-      "result": "victoire",
-      "trophyChange": 10
-    },
-    {
-      "time": "20261104T062056.000Z",
-      "mode": "brawlBall",
+      "time": "20261105T064531.000Z",
+      "mode": "airHockey",
       "result": "défaite",
       "trophyChange": -2
+    },
+    {
+      "time": "20261105T064222.000Z",
+      "mode": "airHockey",
+      "result": "victoire",
+      "trophyChange": 11
+    },
+    {
+      "time": "20261105T064019.000Z",
+      "mode": "soloShowdown",
+      "result": "victoire",
+      "trophyChange": 8
     }
   ]
 }
