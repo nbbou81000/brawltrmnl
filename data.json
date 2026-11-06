@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-06T06:26:12.081Z",
+  "updatedAt": "2026-11-06T14:53:28.583Z",
   "player": {
     "name": "SK|LoloBg81🙊",
     "tag": "#RPVLJ0LQ2",
-    "trophies": 67114,
-    "highestTrophies": 67114,
+    "trophies": 67138,
+    "highestTrophies": 67148,
     "expLevel": 148,
     "soloVictories": 2751,
-    "duoVictories": 2544,
+    "duoVictories": 2545,
     "victories3v3": 2751
   },
   "club": {
     "name": "Albatar",
-    "trophies": 2117323,
+    "trophies": 2117865,
     "members": 30,
     "requiredTrophies": 60000
   },
@@ -40,15 +40,15 @@
     },
     {
       "name": "KIT",
-      "trophies": 1504,
-      "highestTrophies": 1504,
+      "trophies": 1510,
+      "highestTrophies": 1510,
       "power": 11,
       "rank": 5
     },
     {
       "name": "SPIKE",
-      "trophies": 1411,
-      "highestTrophies": 1415,
+      "trophies": 1429,
+      "highestTrophies": 1439,
       "power": 11,
       "rank": 5
     },
@@ -62,34 +62,34 @@
   ],
   "recentBattles": [
     {
-      "time": "20261105T080535.000Z",
-      "mode": "megaShowdown",
+      "time": "20261106T073644.000Z",
+      "mode": "megaDuoShowdown",
+      "result": "défaite",
+      "trophyChange": -6
+    },
+    {
+      "time": "20261106T073453.000Z",
+      "mode": "megaDuoShowdown",
+      "result": "défaite",
+      "trophyChange": -4
+    },
+    {
+      "time": "20261106T073232.000Z",
+      "mode": "megaDuoShowdown",
       "result": "victoire",
       "trophyChange": 7
     },
     {
-      "time": "20261105T064646.000Z",
-      "mode": "airHockey",
-      "result": "victoire",
-      "trophyChange": 10
-    },
-    {
-      "time": "20261105T064531.000Z",
-      "mode": "airHockey",
-      "result": "défaite",
-      "trophyChange": -2
-    },
-    {
-      "time": "20261105T064222.000Z",
-      "mode": "airHockey",
+      "time": "20261106T072702.000Z",
+      "mode": "megaDuoShowdown",
       "result": "victoire",
       "trophyChange": 11
     },
     {
-      "time": "20261105T064019.000Z",
-      "mode": "soloShowdown",
+      "time": "20261106T072409.000Z",
+      "mode": "megaDuoShowdown",
       "result": "victoire",
-      "trophyChange": 8
+      "trophyChange": 15
     }
   ]
 }
