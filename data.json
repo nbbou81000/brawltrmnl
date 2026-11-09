@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-09T01:32:04.562Z",
+  "updatedAt": "2026-11-09T09:29:13.883Z",
   "player": {
     "name": "SK|LoloBg81🙊",
     "tag": "#RPVLJ0LQ2",
-    "trophies": 67150,
-    "highestTrophies": 67160,
-    "expLevel": 148,
+    "trophies": 67227,
+    "highestTrophies": 67227,
+    "expLevel": 149,
     "soloVictories": 2751,
-    "duoVictories": 2546,
+    "duoVictories": 2551,
     "victories3v3": 2751
   },
   "club": {
     "name": "Albatar",
-    "trophies": 2120830,
+    "trophies": 2120975,
     "members": 30,
     "requiredTrophies": 60000
   },
@@ -39,16 +39,16 @@
       "rank": 6
     },
     {
-      "name": "KIT",
-      "trophies": 1510,
-      "highestTrophies": 1510,
+      "name": "SPIKE",
+      "trophies": 1518,
+      "highestTrophies": 1518,
       "power": 11,
       "rank": 5
     },
     {
-      "name": "SPIKE",
-      "trophies": 1441,
-      "highestTrophies": 1451,
+      "name": "KIT",
+      "trophies": 1510,
+      "highestTrophies": 1510,
       "power": 11,
       "rank": 5
     },
@@ -62,34 +62,34 @@
   ],
   "recentBattles": [
     {
-      "time": "20261107T120947.000Z",
+      "time": "20261109T065313.000Z",
       "mode": "megaDuoShowdown",
-      "result": "défaite",
-      "trophyChange": -10
+      "result": "victoire",
+      "trophyChange": 20
     },
     {
-      "time": "20261107T120552.000Z",
-      "mode": "megaDuoShowdown",
+      "time": "20261109T064955.000Z",
+      "mode": "trioShowdown",
       "result": "victoire",
       "trophyChange": 15
     },
     {
-      "time": "20261107T120431.000Z",
-      "mode": "megaDuoShowdown",
-      "result": "défaite",
-      "trophyChange": -2
-    },
-    {
-      "time": "20261107T120339.000Z",
-      "mode": "megaShowdown",
-      "result": "défaite",
-      "trophyChange": -5
-    },
-    {
-      "time": "20261107T115955.000Z",
-      "mode": "megaShowdown",
+      "time": "20261109T064738.000Z",
+      "mode": "trioShowdown",
       "result": "victoire",
-      "trophyChange": 14
+      "trophyChange": 8
+    },
+    {
+      "time": "20261109T064505.000Z",
+      "mode": "trioShowdown",
+      "result": "victoire",
+      "trophyChange": 13
+    },
+    {
+      "time": "20261109T064249.000Z",
+      "mode": "trioShowdown",
+      "result": "victoire",
+      "trophyChange": 12
     }
   ]
 }
