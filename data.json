@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-12T00:20:40.682Z",
+  "updatedAt": "2026-11-12T08:05:43.694Z",
   "player": {
     "name": "SK|LoloBg81🙊",
     "tag": "#RPVLJ0LQ2",
-    "trophies": 67241,
-    "highestTrophies": 67241,
+    "trophies": 67294,
+    "highestTrophies": 67294,
     "expLevel": 149,
     "soloVictories": 2751,
-    "duoVictories": 2551,
+    "duoVictories": 2553,
     "victories3v3": 2751
   },
   "club": {
     "name": "Albatar",
-    "trophies": 2124348,
+    "trophies": 2124471,
     "members": 30,
     "requiredTrophies": 60000
   },
@@ -40,8 +40,8 @@
     },
     {
       "name": "SPIKE",
-      "trophies": 1532,
-      "highestTrophies": 1532,
+      "trophies": 1585,
+      "highestTrophies": 1585,
       "power": 11,
       "rank": 5
     },
@@ -62,34 +62,34 @@
   ],
   "recentBattles": [
     {
-      "time": "20261110T161126.000Z",
+      "time": "20261112T062942.000Z",
       "mode": "megaDuoShowdown",
       "result": "victoire",
-      "trophyChange": 14
+      "trophyChange": 17
     },
     {
-      "time": "20261109T065313.000Z",
+      "time": "20261112T062624.000Z",
       "mode": "megaDuoShowdown",
       "result": "victoire",
-      "trophyChange": 20
+      "trophyChange": 11
     },
     {
-      "time": "20261109T064955.000Z",
-      "mode": "trioShowdown",
-      "result": "victoire",
-      "trophyChange": 15
-    },
-    {
-      "time": "20261109T064738.000Z",
-      "mode": "trioShowdown",
+      "time": "20261112T062351.000Z",
+      "mode": "megaDuoShowdown",
       "result": "victoire",
       "trophyChange": 8
     },
     {
-      "time": "20261109T064505.000Z",
-      "mode": "trioShowdown",
+      "time": "20261112T062206.000Z",
+      "mode": "megaDuoShowdown",
+      "result": "défaite",
+      "trophyChange": -5
+    },
+    {
+      "time": "20261112T061819.000Z",
+      "mode": "megaDuoShowdown",
       "result": "victoire",
-      "trophyChange": 13
+      "trophyChange": 22
     }
   ]
 }
